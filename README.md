@@ -16,7 +16,7 @@
             <ul>
                 <li>🛠️ I’m currently working on <strong>Distributed Systems & Cloud Computing projects.</strong></li>
                 <li>🌱 I’m currently learning <strong>Kubernetes, AWS, and GraphQL.</strong></li>
-                <li>💬 Ask me about <strong>Java, Spring Boot, Docker, or anything <a href="https://github.com/skshm11/skshm11/issues">here</a></strong></li>
+                <li>💬 Ask me about <strong>Java, Spring Boot, Docker, or anything <a href="https://github.com/bhumiksoni99/bhumiksoni99/issues">here</a></strong></li>
                 <li>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs.</strong></li>
             </ul>
         </td>
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/sakshamnasa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/skshm11" target="_blank">
+  <a href="https://github.com/bhumiksoni99" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> 
   </a>
 </div>
@@ -62,10 +62,10 @@
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=skshm11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=skshm11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bhumiksoni99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bhumiksoni99&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=skshm11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bhumiksoni99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
