@@ -15,7 +15,7 @@
         <td>
             <ul>
                 <li>🛠️ I’m currently working on <strong>React Native apps and Next.js dashboards</strong></li>
-                <li>🌱 I’m currently learning <strong>SwiftUi</strong></li>
+                <li>🌱 I’m currently learning <strong>SwiftUI and XML</strong></li>
                 <li>💬 Ask me about <strong>React, Next, React Native, or anything <a href="https://github.com/bhumiksoni99/bhumiksoni99/issues">here</a></strong></li>
                 <li>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs.</strong></li>
             </ul>
