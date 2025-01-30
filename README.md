@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhumik+Soni!;" />
 </h1>
 
-<h3 align="center">A Software Developer and MSc Computer Science student at UCD 🇮🇪</h3>
+<h3 align="center">A Software Developer and</h3>
 
 <br/>
 
@@ -14,9 +14,9 @@
         </td>
         <td>
             <ul>
-                <li>🛠️ I’m currently working on <strong>Distributed Systems & Cloud Computing projects.</strong></li>
-                <li>🌱 I’m currently learning <strong>Kubernetes, AWS, and GraphQL.</strong></li>
-                <li>💬 Ask me about <strong>Java, Spring Boot, Docker, or anything <a href="https://github.com/bhumiksoni99/bhumiksoni99/issues">here</a></strong></li>
+                <li>🛠️ I’m currently working on <strong>React Native apps and Next.js dashboards</strong></li>
+                <li>🌱 I’m currently learning <strong>SwiftUi</strong></li>
+                <li>💬 Ask me about <strong>React, Next, React Native, or anything <a href="https://github.com/bhumiksoni99/bhumiksoni99/issues">here</a></strong></li>
                 <li>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs.</strong></li>
             </ul>
         </td>
@@ -42,7 +42,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,express,nodejs,redux,css,mysql,mongo,graphql,swift,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,next,express,nodejs,redux,css,mysql,mongo,graphql,swift,materialui,yarn" />
     <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
 </div>
 
