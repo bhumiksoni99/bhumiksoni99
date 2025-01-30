@@ -42,8 +42,8 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,react-native,next,express,redux,css,mysql,mongodb,graphql" />
-    <img src="https://skillicons.dev/icons?i=git,github,jira,xcode,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,express,nodejs,redux,css,mysql,mongo,graphql,swift,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker" /><br>
 </div>
 
 <br/>
